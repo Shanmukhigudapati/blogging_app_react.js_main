@@ -1,4 +1,4 @@
-Blogging App – React + Vite
+#Blogging App – React + Vite
 This project provides a minimal and scalable setup to build a Blogging Application using React.js, Vite, and Tailwind CSS, with support for HMR and ESLint configuration.
 
 Currently, two official plugins are available for React with Vite:

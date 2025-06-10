@@ -18,43 +18,9 @@ Currently, two official plugins are available:
 
 🧹 Includes ESLint for code quality
 
-📦 Project Structure
-arduino
-Copy
-Edit
-blogging_app_react.js_main/
-├── public/
-│   └── index.html
-├── src/
-│   └── ... (React components, pages, etc.)
-├── package.json
-├── postcss.config.js
-├── tailwind.config.js
-├── vite.config.js
-├── eslint.config.js
-└── README.md
-🚀 Getting Started
-1. Install dependencies
-bash
-Copy
-Edit
-npm install
-2. Start development server
-bash
-Copy
-Edit
-npm run dev
-3. Build for production
-bash
-Copy
-Edit
-npm run build
 📌 Planned Improvements
 Add blog post CRUD features
-
 Integrate backend (Node.js or Firebase)
-
 Implement authentication
-
 Add routing with React Router
 

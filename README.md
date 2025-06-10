@@ -1,11 +1,11 @@
-#Blogging App – React + Vite
-This project provides a minimal and scalable setup to build a Blogging Application using React.js, Vite, and Tailwind CSS, with support for HMR and ESLint configuration.
+# Blogging App – React + Vite
 
-Currently, two official plugins are available for React with Vite:
+This project provides a minimal setup to build a blogging application using React and Vite, with support for Hot Module Replacement (HMR), Tailwind CSS for styling, and ESLint for code quality.
 
-@vitejs/plugin-react uses Babel for Fast Refresh
+Currently, two official plugins are available:
 
-@vitejs/plugin-react-swc uses SWC for Fast Refresh
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh  
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 🔧 Features
 ⚛️ Built with React.js for dynamic UI
